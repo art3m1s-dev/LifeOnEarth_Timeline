@@ -5,9 +5,9 @@
 - Made using **python 3.10** with the `matplotlib` and `numpy` libraries
 
 - Open the [.py code file](/LifeOnEarth_timeline.py) to see the code itself
-- And the [.ipynb file](/LifeOnEarth_Timeline.ipynb) to see the history of the code and how it's taken shape
+- Or the [.ipynb file](/LifeOnEarth_Timeline.ipynb) to see the history of the code and how it's taken shape
 
-### to best view the notebook file:
+### To best view the notebook file (project history):
 1. Download the `LifeOnEarth_Timeline.ipynb` file
 2. Go to the Google Colab [website](https://colab.research.google.com/)
 3. Select **Upload** and choose the dowloaded file
