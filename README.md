@@ -1,13 +1,13 @@
 
 # A timeline of life on earth spanning the last 4.5 billion years
 
-- Creates for a high school honors biology course project
+- Created for a high school honors biology course project
 - Made using **python 3.10** with the `matplotlib` and `numpy` libraries
 
 - Open the [.py code file](/LifeOnEarth_timeline.py) to see the code itself
 - And the [.ipynb file](/LifeOnEarth_Timeline.ipynb) to see the history of the code and how it's taken shape
 
-NOTE: to view the notebook file in a readable form:
+### to best view the notebook file:
 1. Download the `LifeOnEarth_Timeline.ipynb` file
 2. Go to the Google Colab [website](https://colab.research.google.com/)
 3. Select **Upload** and choose the dowloaded file
