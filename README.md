@@ -3,6 +3,13 @@
 
 ![The timeline of the evolution of life](/LifeOnEarth_Timeline-v2.png)
 
+## Definitions
+
+– An **eon**: is the largest division of geological time
+  - An **era**: is a subdivision of an **eon**
+
+## Specs:
+
 - Created for a high school honors biology course project
 - Made using **python 3.10** with the `matplotlib` and `numpy` libraries
 
